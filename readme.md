@@ -46,38 +46,12 @@ Whether you're testing APIs, generating hashes, verifying checksums, or creating
 
 ---
 
-## 🚀 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/nzt-toolkit.git
-```
-
-Open the project in **Android Studio**, sync Gradle, and build.
-
----
-
 ## 🛠️ Built With
 
 - Java / Kotlin
 - Android SDK
 - Material Design
 - AndroidX Libraries
-
----
-
-## 📸 Screenshots
-
-> Add screenshots inside the `screenshots/` folder.
-
-```
-screenshots/
-├── home.png
-├── hash.png
-├── password.png
-└── qr.png
-```
 
 ---
 
