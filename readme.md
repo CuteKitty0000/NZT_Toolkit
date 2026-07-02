@@ -2,10 +2,6 @@
 
 > A lightweight Android toolkit for cybersecurity professionals, developers, students, and ethical hackers.
 
-<p align="center">
-  <img src="assets/banner.jpg" alt="NZT Toolkit" width="800"/>
-</p>
-
 ## 📱 Overview
 
 **NZT Toolkit** combines essential cybersecurity and developer utilities into a single, clean, offline-friendly Android application.
